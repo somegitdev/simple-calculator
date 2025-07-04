@@ -1,0 +1,33 @@
+   # Visual Studio Code specific files
+    .vscode/*.code-workspace
+
+    # Compiled binaries and object files (IGNORE THESE)
+    *.obj
+    *.pdb
+    *.ilk
+    *.lib
+    *.exp
+    *.tlog
+    *.idb
+    *.aps
+    *.ipch
+    *.log
+    *.bak
+    *.bsc
+    *.sbr
+    *.suo
+    *.user
+    *.ncb
+    *.opendb
+    *.vcxproj.filters
+    *.vcxproj.user
+    Debug/
+    Release/
+    x64/
+    Win32/
+
+    # Ignore .exe files in the root directory (if any)
+    *.exe
+
+    # EXCEPTION: Keep the 'releases/' folder and its contents
+    !/releases/
