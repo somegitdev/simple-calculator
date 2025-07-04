@@ -17,7 +17,7 @@ A basic command-line calculator application built with C++. This project demonst
 
 If you just want to use the calculator without building it from source:
 
-1.  Go to the [**Releases page**](https://github.com/somgitdev/simple-calculator/releases) of this repository.
+1.  Go to the [**Releases page**](https://github.com/somegitdev/simple-calculator/releases) of this repository.
 2.  Download the latest `calculator.exe` from the "Assets" section of the desired release.
 3.  Run the `calculator.exe` file on your Windows machine.
 4.  Follow the prompts in the console window to perform calculations.
