@@ -1,6 +1,6 @@
 # Simple C++ Console Calculator
 
-A basic command-line calculator application built with C++. This project demonstrates fundamental C++ programming concepts, including input/output, conditional statements, loops, and function usage.
+A basic command-line calculator application built with C++.
 
 ## Features
 
