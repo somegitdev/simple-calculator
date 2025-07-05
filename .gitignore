@@ -29,5 +29,4 @@
     # Ignore .exe files in the root directory (if any)
     *.exe
 
-    # EXCEPTION: Keep the 'releases/' folder and its contents
     !/releases/
